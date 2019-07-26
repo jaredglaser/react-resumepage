@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/react-resumepage/static/css/main.2cce8147.chunk.css",
-    "main.js": "/react-resumepage/static/js/main.80bb029d.chunk.js",
-    "main.js.map": "/react-resumepage/static/js/main.80bb029d.chunk.js.map",
+    "main.js": "/react-resumepage/static/js/main.266c4b3a.chunk.js",
+    "main.js.map": "/react-resumepage/static/js/main.266c4b3a.chunk.js.map",
     "runtime~main.js": "/react-resumepage/static/js/runtime~main.0b7aaad1.js",
     "runtime~main.js.map": "/react-resumepage/static/js/runtime~main.0b7aaad1.js.map",
-    "static/js/2.b41502e9.chunk.js": "/react-resumepage/static/js/2.b41502e9.chunk.js",
-    "static/js/2.b41502e9.chunk.js.map": "/react-resumepage/static/js/2.b41502e9.chunk.js.map",
+    "static/js/2.8e4851b5.chunk.js": "/react-resumepage/static/js/2.8e4851b5.chunk.js",
+    "static/js/2.8e4851b5.chunk.js.map": "/react-resumepage/static/js/2.8e4851b5.chunk.js.map",
     "index.html": "/react-resumepage/index.html",
-    "precache-manifest.96ce3579362175578bd1d09ed8fe9e71.js": "/react-resumepage/precache-manifest.96ce3579362175578bd1d09ed8fe9e71.js",
+    "precache-manifest.7672f94a002ac5f4fdcc5cb580389807.js": "/react-resumepage/precache-manifest.7672f94a002ac5f4fdcc5cb580389807.js",
     "service-worker.js": "/react-resumepage/service-worker.js",
     "static/css/main.2cce8147.chunk.css.map": "/react-resumepage/static/css/main.2cce8147.chunk.css.map",
     "static/media/logo.svg": "/react-resumepage/static/media/logo.5d5d9eef.svg"
